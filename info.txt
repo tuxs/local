@@ -1,0 +1,9 @@
+Para la prueba y ejecución de esta base de datos, se hizo uso de xampp.
+1) Se debe crear la base de datos con el nombre de "usuario"
+2) Luego hay que importar desde el phpadmin el script usuario.sql
+
+Usuario: tuxs
+Password: ing1
+
+Listo!!!
+
